@@ -19,10 +19,13 @@ import fr from './fr';
 import ga from './ga';
 import hu from './hu';
 import it from './it';
+import lt from './lt';
 import lv from './lv';
 import nl from './nl';
 import no from './no';
 import pl from './pl';
+import pt from './pt';
+import ptBR from './pt-BR';
 import ro from './ro';
 import ru from './ru';
 import sk from './sk';
@@ -51,10 +54,13 @@ const data = [
     ga,
     hu,
     it,
+    lt,
     lv,
     nl,
     no,
     pl,
+    pt,
+    ptBR,
     ro,
     ru,
     sk,
